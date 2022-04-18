@@ -1,3 +1,4 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/XpYeG1)
 <p align="center">
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
